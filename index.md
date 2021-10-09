@@ -9,4 +9,4 @@ EE 475 Embedded Systems Capstone
 
 
 ## Weekly Updates
-[Week 1](weekly_update/week1)
+[Week 1](weekly_update/week1.md)
