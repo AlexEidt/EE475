@@ -3,10 +3,10 @@ This week, we formed a group and began [brainstorming ideas](https://docs.google
 
 ### Individual Contributions
 Everyone was very involved in brainstorming ideas, here are some things outside of the ideation process everyone did this week.
-- Alex: Created our website using GitHub Pages.
-- Edward: Did the most research into each of our ideas. Really fleshed out possible approaches!
-- Peter: Wrote up the weekly update.
-- Sunny: Took notes during team meetings.
+- **Alex**: Created our website using GitHub Pages.
+- **Edward**: Did the most research into each of our ideas. Really fleshed out possible approaches!
+- **Peter**: Wrote up the weekly update.
+- **Sunny**: Took notes during team meetings.
 
 ## To-Do
 - Create slides for next week's presentation.
