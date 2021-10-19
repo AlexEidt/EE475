@@ -15,4 +15,6 @@ EE 475 Embedded Systems Capstone
 
 ## Presentations
 
-[Project Proposal](https://docs.google.com/presentation/d/1L0yTmtHj2N49Bc62OJ8emHn7ki1uWSqm6XyPh2wC9JU/edit?usp=sharing)
+* [PRD](https://docs.google.com/document/d/1YGltKWX7_WcPJj4181drKQ-ST4nScgyZTBDILL6FrCI/edit?usp=sharing)
+
+* [Project Proposal](https://docs.google.com/presentation/d/1L0yTmtHj2N49Bc62OJ8emHn7ki1uWSqm6XyPh2wC9JU/edit?usp=sharing)
