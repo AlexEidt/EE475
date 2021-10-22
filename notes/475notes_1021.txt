@@ -1,0 +1,18 @@
+ - feedback for PRD
+(adding more numerical information/constraints)
+> range of bluetooth detection - selected 100m
+> length of battery life - a week?
+
+cr2032 (the type of coin cell we've purchased) vs. (getting a thicker battery) 
+
+idea: only scan when the app is on? (having only a finder mode)
+	however, wouldn't work with our idea for 
+> toggle per medication [some to leave at home vs. some to bring with you]
+! do we need a background service - yes, if we want notifications if we "leave the house" without the pill bottle
+
+app functionality -
+> finding the pill bottle
+> reminder if you leave the house & you left the bottle behind
+
+photoresistor?
+	> could use sharpie/tape/epoxy(?) to narrow down the responsive area on the photoresistor
