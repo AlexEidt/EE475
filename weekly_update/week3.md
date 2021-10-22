@@ -10,7 +10,7 @@ Everyone worked on the project requirements document. Here are some individual c
 - **Sunny**: Wrote weekly update, set up budget, took brief notes.
 
 ### Notes
-[10/21](notes/475notes_1021.txt)
+[10/21](../notes/475notes_1021.txt)
 
 ## To-Do
 - Complete rapid prototypes by Tuesday (10/26)
