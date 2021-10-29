@@ -19,7 +19,7 @@ EE 475 Embedded Systems Capstone
 
 * Rapid Prototypes
     * [3D Model](https://cad.onshape.com/documents/08cac49aa25d3ed912392922/w/437bd6398aacd30679a72fc3/e/4a10e9d8844c9b01d6b99d25?renderMode=0&uiState=617337ef3927ac5d189e829a)
-    * [App UI Mock-Up](https://docs.google.com/document/d/1UvKZM8pnrcHUjvfMxl4pmxd63g0Ylvzzs5G35stVkYk/edit?usp=sharing)
+    * [App UI Mock-Up](https://www.figma.com/proto/iVGx4vgKLAvFz49OYhs8xk/UI-Mockup?node-id=6%3A6&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A6)
 
 * [PRD](https://docs.google.com/document/d/1YGltKWX7_WcPJj4181drKQ-ST4nScgyZTBDILL6FrCI/edit?usp=sharing)
 
