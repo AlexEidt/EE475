@@ -17,6 +17,8 @@ EE 475 Embedded Systems Capstone
 
 ## Deliverables
 
+* [Project Status Update](https://docs.google.com/presentation/d/16Bb-tAvqRhDA4DYQsEwbTX6xdlSc95PNFWBloF_YF-o/edit?usp=sharing)
+
 * Rapid Prototypes
     * [3D Model](https://cad.onshape.com/documents/08cac49aa25d3ed912392922/w/437bd6398aacd30679a72fc3/e/4a10e9d8844c9b01d6b99d25?renderMode=0&uiState=617337ef3927ac5d189e829a)
     * [App UI Mock-Up](https://www.figma.com/proto/iVGx4vgKLAvFz49OYhs8xk/UI-Mockup?node-id=6%3A6&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A6)
