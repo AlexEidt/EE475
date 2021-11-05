@@ -13,6 +13,7 @@ EE 475 Embedded Systems Capstone
 * [Week 2](weekly_update/week2.md)
 * [Week 3](weekly_update/week3.md)
 * [Week 4](weekly_update/week4.md)
+* [Week 5](weekly_update/week5.md)
 
 
 ## Deliverables
