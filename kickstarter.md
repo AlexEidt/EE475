@@ -11,7 +11,7 @@ Taking medication is an essential part of maintaining health for millions of peo
 ## How To Use PillPal
 <!-- walk through the process of setting up/registering a bottle, editing information, what type of notifications will happen -->
 
-![bottle_mockup](static/bottle_img.png "bottle")
+![bottle_mockup](/static/bottle_img.png "bottle")
 
 1. Register your PillPal bottle(s) with your phone
 2. Enter in prescription information into the app
@@ -25,7 +25,7 @@ Taking medication is an essential part of maintaining health for millions of peo
 * Personalizable Labels
 
 ## UI Design
-![UI](UI.png "UI")
+![UI](/static/UI.png "UI")
 
 ## Specification
 * Materials: PLA
@@ -49,12 +49,12 @@ Taking medication is an essential part of maintaining health for millions of peo
 ### Alex Eidt
 
 ### Peter Gunarso
-![peter_head](static/peter_head.jpg "peter")
+![peter_head](/static/peter_head.jpg "peter")
 Peter is a BS student at the University of Washington studying Computer Engineering. He's interested in all the different ways computing can effect daily life. Outside of school or work, you can find him at the gym or playing with his dog.
 
 ### Sunny Hu
 Sunny is an undergraduate student at the University of Washington studying Eletrical Engineering. She's interested in embedded software and STEM education. In her spare time, you can find her trying new foods or enjoying the rare PNW sunshine.
 
 ### Edward Wu
-![Edward_head](static/Edward_head.jpeg "Edward")
+![Edward_head](/static/Edward_head.jpeg "Edward")
 Edward is a undergraduate student at the University of Washington studying Electrical Engineering. He is passionate about hardware & software programming, firmware design. In his free time, he likes painting and playing basketball. 
