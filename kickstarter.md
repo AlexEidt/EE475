@@ -47,7 +47,7 @@ Taking medication is an essential part of maintaining health for millions of peo
 
 ## Meet The Team
 ### Alex Eidt
-<img src="static/peter_head.jpg" alt="Peter Gunarso Headshot" width="200"/>
+<img src="static/alex_head.jpg" alt="Alex Eidt Headshot" width="200"/>
 
 
 ### Peter Gunarso
