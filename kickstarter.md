@@ -5,13 +5,13 @@
 
 ## Story
 <!-- provide background and context for why we decided to make PillPal (besides it being for our capstone class). who is our target audience? why does our product matter and what new aspects does it bring to the smart pill bottle market? -->
-Taking medication is an essential part of maintaining health for millions of people worldwide. However, up to 50% of people take their medication incorrectly [1]. Missing pills or not being able to find your medication are problems that those who rely on prescription medications face. Out of all current smart pill bottles on the market, PillPal offers the simplest, low-effort solution for managing and keeping track of multiple medications. Simply open the lid for the app to track when you've taken your medication - no additional button presses or phone taps needed!
+Taking medication is an essential part of maintaining health for millions of people worldwide. However, up to 50% of people take their medication incorrectly. Missing pills or not being able to find your medication are problems that those who rely on prescription medications face. Out of all current smart pill bottles on the market, PillPal offers the simplest, low-effort solution for managing and keeping track of multiple medications. Simply open the lid for the app to track when you've taken your medication - no additional button presses or phone taps needed!
 
 
 ## How To Use PillPal
 <!-- walk through the process of setting up/registering a bottle, editing information, what type of notifications will happen -->
 
-<img src="static/bottle_img.png" alt="Render of 3D Model Prototype of PillPall" width="600"/>
+![3D Model of Bottle](static/bottle_img.png)
 
 1. Register your PillPal bottle(s) with your phone
 2. Enter in prescription information into the app
@@ -25,7 +25,7 @@ Taking medication is an essential part of maintaining health for millions of peo
 * Personalizable Labels
 
 ## UI Design
-<img src="static/UI.png" alt="UI design" width="1200"/>
+![UI Mockup](static/UI.png)
 
 ## Specification
 * Materials: PLA
@@ -54,8 +54,11 @@ Taking medication is an essential part of maintaining health for millions of peo
 Peter is a BS student at the University of Washington studying Computer Engineering. He's interested in all the different ways computing can effect daily life. Outside of school or work, you can find him at the gym or playing with his dog.
 
 ### Sunny Hu
+<img src="static/sunny_head.jpeg" alt="Sunny Hu Headshot" width="300"/>
+
 Sunny is an undergraduate student at the University of Washington studying Eletrical Engineering. She's interested in embedded software and STEM education. In her spare time, you can find her trying new foods or enjoying the rare PNW sunshine.
 
 ### Edward Wu
-<img src="static/Edward_head.jpeg" alt="=Edward Wu Headshot" width="300"/>
+<img src="static/Edward_head.jpeg" alt="Edward Wu Headshot" width="300"/>
+
 Edward is a undergraduate student at the University of Washington studying Electrical Engineering. He is passionate about hardware & software programming, firmware design. In his free time, he likes painting and playing basketball. 
