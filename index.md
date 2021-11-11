@@ -18,6 +18,8 @@ EE 475 Embedded Systems Capstone
 
 ## Deliverables
 
+* [Kickstarter Page](kickstarter.md)
+
 * [Project Status Update](https://docs.google.com/presentation/d/16Bb-tAvqRhDA4DYQsEwbTX6xdlSc95PNFWBloF_YF-o/edit?usp=sharing)
 
 * Rapid Prototypes
