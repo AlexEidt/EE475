@@ -49,6 +49,8 @@ Taking medication is an essential part of maintaining health for millions of peo
 ### Alex Eidt
 <img src="static/alex_head.jpg" alt="Alex Eidt Headshot" width="200"/>
 
+Alex is a BS student at the University of Washington studying Electrical Engineering. He's interested in computer vision and image processing. In his free time, he enjoys biking, playing basketball and working on coding projects.
+
 
 ### Peter Gunarso
 <img src="static/peter_head.jpg" alt="Peter Gunarso Headshot" width="200"/>
