@@ -47,18 +47,20 @@ Taking medication is an essential part of maintaining health for millions of peo
 
 ## Meet The Team
 ### Alex Eidt
+<img src="static/peter_head.jpg" alt="Peter Gunarso Headshot" width="200"/>
+
 
 ### Peter Gunarso
-<img src="static/peter_head.jpg" alt="Peter Gunarso Headshot" width="300"/>
+<img src="static/peter_head.jpg" alt="Peter Gunarso Headshot" width="200"/>
 
 Peter is a BS student at the University of Washington studying Computer Engineering. He's interested in all the different ways computing can effect daily life. Outside of school or work, you can find him at the gym or playing with his dog.
 
 ### Sunny Hu
-<img src="static/sunny_head.jpg" alt="Sunny Hu Headshot" width="300"/>
+<img src="static/sunny_head.jpg" alt="Sunny Hu Headshot" width="200"/>
 
 Sunny is an undergraduate student at the University of Washington studying Eletrical Engineering. She's interested in embedded software and STEM education. In her spare time, you can find her trying new foods or enjoying the rare PNW sunshine.
 
 ### Edward Wu
-<img src="static/Edward_head.jpeg" alt="Edward Wu Headshot" width="300"/>
+<img src="static/Edward_head.jpeg" alt="Edward Wu Headshot" width="200"/>
 
 Edward is a undergraduate student at the University of Washington studying Electrical Engineering. He is passionate about hardware & software programming, firmware design. In his free time, he likes painting and playing basketball. 
