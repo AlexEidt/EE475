@@ -21,6 +21,8 @@ EE 475 Embedded Systems Capstone
 
 ## Deliverables
 
+* [Project Status Update 2](https://docs.google.com/presentation/d/137rjymTj2ACOPaEjyuAJBPIMfacijYlZ3rB--v2wRYs/edit?usp=sharing)
+
 * [Kickstarter Page](kickstarter.md)
 
 * [Project Status Update](https://docs.google.com/presentation/d/16Bb-tAvqRhDA4DYQsEwbTX6xdlSc95PNFWBloF_YF-o/edit?usp=sharing)
