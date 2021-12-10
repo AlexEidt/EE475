@@ -30,9 +30,9 @@ Taking medication is an essential part of maintaining health for millions of peo
 ## Specification
 * Materials: PLA
 * Dimensions: 6.35cm x 5.35cm x 8.25cm
-* Volume: 40 Dram
+* Volume: 20 dram
+* Weight: 130g
 * Requires 2x CR2032 batteries [not included]
-<!-- * Weight:  -->
 
 
 ## Stretch Goals

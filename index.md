@@ -23,11 +23,13 @@ EE 475 Embedded Systems Capstone
 
 ## Deliverables
 
+* [Final Demo Slides (including videos)](https://docs.google.com/presentation/d/1JVPtu6F8TNrFQzQSW43W800NoxPH5E1Qw6ZNhgIIHa4/edit?usp=sharing)
+
 * [Project Status Update 2](https://docs.google.com/presentation/d/137rjymTj2ACOPaEjyuAJBPIMfacijYlZ3rB--v2wRYs/edit?usp=sharing)
 
 * [Kickstarter Page](kickstarter.md)
 
-* [Project Status Update](https://docs.google.com/presentation/d/16Bb-tAvqRhDA4DYQsEwbTX6xdlSc95PNFWBloF_YF-o/edit?usp=sharing)
+* [Project Status Update 1](https://docs.google.com/presentation/d/16Bb-tAvqRhDA4DYQsEwbTX6xdlSc95PNFWBloF_YF-o/edit?usp=sharing)
 
 * Rapid Prototypes
     * [3D Model](https://cad.onshape.com/documents/08cac49aa25d3ed912392922/w/437bd6398aacd30679a72fc3/e/4a10e9d8844c9b01d6b99d25?renderMode=0&uiState=617337ef3927ac5d189e829a)
