@@ -14,12 +14,15 @@ Taking medication is an essential part of maintaining health for millions of peo
 <br/><br/>
 
 ## How To Use PillPal
+Click on the thumbnail to open the video in a new tab.
 <!-- walk through the process of setting up/registering a bottle, editing information, what type of notifications will happen -->
 
 * Register your PillPal bottle(s) with your phone
 <!-- Demo Videos - Adding Information -->
+
 * Get notification remiders
-[![notification reminders video](http://img.youtube.com/vi/dpuLgHzKcK4/0.jpg)](http://www.youtube.com/watch?v=dpuLgHzKcK4 "Dosage Reminders")
+<div style="text-align: left"> [![notification reminders video](http://img.youtube.com/vi/dpuLgHzKcK4/0.jpg)](http://www.youtube.com/watch?v=dpuLgHzKcK4 "Dosage Reminders")
+</div>
 * Find your bottle with our bottle locator
 <!-- Demo Videos - Stud Finding -->
 * Check your Dosage History
