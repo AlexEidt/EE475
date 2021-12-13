@@ -53,6 +53,16 @@ Taking medication is an essential part of maintaining health for millions of peo
 * Medication Remainder Detection
 * Prescription Refills
 
+## Future Work
+
+The PillPal project is still very much in development. With your help kickstarting this product, we'll deliver some great new features to improve the user experience.
+
+One of those features is a Child Safety Lid, which comes standard in most regular pill bottles. 
+
+Additionally, Medication Remainder Detection will offer a more robust means of tracking how much medication is left in your bottle.
+
+We also plan on removing the tedious process of transcribing prescription information into the app by a prescription scanner which will automatically fill in all medication information from a picture. With this feature will also come automatic prescription refills with your pharamacy.
+
 ## Timeline
 <!-- hopefully visual timeline of how we will continue developing the pillpal. can (will) definitely be full of lies. this section isn't necessary -->
 
