@@ -19,6 +19,7 @@ Click on the thumbnail to open the video in a new tab.
 
 * Register your PillPal bottle(s) with your phone
 <!-- Demo Videos - Adding Information -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpuLgHzKcK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Get notification remiders
 <p align="left"> 
