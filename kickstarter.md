@@ -11,6 +11,8 @@ Taking medication is an essential part of maintaining health for millions of peo
   <img src="static/bottle_side.jpg" alt="side of bottle" width="400"/>
 </p>
 
+<br/><br/>
+
 ## How To Use PillPal
 <!-- walk through the process of setting up/registering a bottle, editing information, what type of notifications will happen -->
 
@@ -27,12 +29,16 @@ Taking medication is an essential part of maintaining health for millions of peo
 * refill notification
 * "left behind" notifications -->
 
+<br/><br/>
+
 ## Features
 <p>
   <img src="static/feature_1.png" alt="feature1" width="650"/> 
   <img src="static/feature_2.png" alt="feature2" width="650"/>
   <img src="static/feature_3.png" alt="feature3" width="650"/>
 </p>
+
+<br/><br/>
 
 ## UI Design
 <p>
@@ -41,17 +47,17 @@ Taking medication is an essential part of maintaining health for millions of peo
   <img src="static/UI_3.png" alt="UI3" width="750"/>
 </p>
 
+<br/><br/>
+
 ## Specification
 * Materials: PLA
-* Dimensions: 6.35cm x 5.35cm x 8.25cm
+* Dimensions: 5.4cm x 5.6cm x 10.55cm / 2.1in x 2.2in x 4.2in
 * Volume: 20 dram
-* Weight: 130g
+* Weight: 132g
 
-## Stretch Goals
-<!-- additional goals for the pillpal -->
-* Child Safety Lid
-* Medication Remainder Detection
-* Prescription Refills
+
+<br/><br/>
+
 
 ## Future Work
 
@@ -63,9 +69,9 @@ Additionally, Medication Remainder Detection will offer a more robust means of t
 
 We also plan on removing the tedious process of transcribing prescription information into the app by a prescription scanner which will automatically fill in all medication information from a picture. With this feature will also come automatic prescription refills with your pharamacy.
 
-## Timeline
-<!-- hopefully visual timeline of how we will continue developing the pillpal. can (will) definitely be full of lies. this section isn't necessary -->
+<!-- ## Timeline hopefully visual timeline of how we will continue developing the pillpal. can (will) definitely be full of lies. this section isn't necessary -->
 
+<br/><br/>
 
 ## Meet The Team
 ### Alex Eidt
