@@ -33,7 +33,6 @@ Taking medication is an essential part of maintaining health for millions of peo
   <img src="static/feature_2.png" alt="feature2" width="650"/>
   <img src="static/feature_3.png" alt="feature3" width="650"/>
 </p>
-<!-- this is where we'd put a video if we had one -->
 
 ## UI Design
 <p>
