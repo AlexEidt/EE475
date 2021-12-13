@@ -18,20 +18,22 @@ Taking medication is an essential part of maintaining health for millions of peo
 ## How To Use PillPal
 <!-- walk through the process of setting up/registering a bottle, editing information, what type of notifications will happen -->
 
-1. Register your PillPal bottle(s) with your phone
-2. Enter in prescription information into the app
-3. Get reminders (phone or friendly)
-<!-- Adding/registering a bottle to the app
-<!-- Multiple medication management with multiple bottles
-Bottle proximity detection with “Left Behind” notifications
-Lid opening/closing detection and Dosage History on the app
-* Notification reminders to take medications based on prescription time and date
-* Adding contacts on the app and showing social notifications
-* Refill notification after opening and closing the lid several times --> -->
+* Register your PillPal bottle(s) with your phone
+<!-- Demo Videos - Adding Information -->
+* Get notification remiders
+<!-- Demo Videos - Dosage Notifications -->
+* Find your bottle with our bottle locator
+<!-- Demo Videos - Stud Finding -->
+* Check your Dosage History
+<!-- Demo Videos - Dosage Notifications. need cut from 0:47 to the end -->
+
+<!-- * "Time to take medication" notification
+* refill notification
+* "left behind" notifications -->
 
 ## Features
 * Multiple medication management
-* Medication Reminders including "Time to take medication" notification, refill notification, "left behind" notifications
+* Medication Reminders
 * Usage History
 * Week-long battery life
 * Medication Proximity Detection
