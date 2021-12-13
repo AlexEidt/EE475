@@ -18,16 +18,14 @@ Taking medication is an essential part of maintaining health for millions of peo
 
 * Register your PillPal bottle(s) with your phone
 <!-- Demo Videos - Adding Information -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Szlx34st53w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Szlx34st53w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 * Get notification remiders
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dpuLgHzKcK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpuLgHzKcK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 * Find your bottle with our bottle locator
 <!-- Demo Videos - Stud Finding -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tXXh0E2Hcjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tXXh0E2Hcjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 * Check your dosage history
 <!-- Demo Videos - Dosage Notifications. need cut from 0:47 to the end -->
