@@ -1,5 +1,5 @@
 ## Recap
-This week we continued developing PillPal for our demo and planned for the rest of the quarter's deliverables.
+This week we continued developing PillPal for our demo and planned for the rest of the quarter's deliverables. We changed the microcontroller to the Arduino Pro Mini and the battery in order to get closer to our goal of a week-long battery life.
 
 ### Individual Contributions
 Here are the individual contributions for this week:
