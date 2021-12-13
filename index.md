@@ -23,6 +23,7 @@ EE 475 Embedded Systems Capstone
 
 
 ## Deliverables
+* [Final Report](https://drive.google.com/file/d/1uAfEOLQSAJwcaKdFHXlq4O-a5n-iBlYU/view?usp=sharing) 
 
 * [Final Demo Slides (including videos)](https://docs.google.com/presentation/d/1JVPtu6F8TNrFQzQSW43W800NoxPH5E1Qw6ZNhgIIHa4/edit?usp=sharing)
 
