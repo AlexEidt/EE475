@@ -36,6 +36,11 @@ Taking medication is an essential part of maintaining health for millions of peo
 <!-- this is where we'd put a video if we had one -->
 
 ## UI Design
+<p>
+  <img src="static/UI_1.png" alt="UI1" width="750"/> 
+  <img src="static/UI_2.png" alt="UI2" width="750"/>
+  <img src="static/UI_3.png" alt="UI3" width="750"/>
+</p>
 
 ## Specification
 * Materials: PLA
