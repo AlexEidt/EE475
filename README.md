@@ -1,2 +1,1 @@
-# EE475
-EE475 Capstone Project Website
+# EE 475 Final Report
