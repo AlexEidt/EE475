@@ -14,27 +14,22 @@ Taking medication is an essential part of maintaining health for millions of peo
 <br/><br/>
 
 ## How To Use PillPal
-Click on the thumbnail to open the video in a new tab.
 <!-- walk through the process of setting up/registering a bottle, editing information, what type of notifications will happen -->
 
 * Register your PillPal bottle(s) with your phone
 <!-- Demo Videos - Adding Information -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Szlx34st53w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+  
 * Get notification remiders
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dpuLgHzKcK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+  
 * Find your bottle with our bottle locator
 <!-- Demo Videos - Stud Finding -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXXh0E2Hcjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+  
 * Check your Dosage History
 <!-- Demo Videos - Dosage Notifications. need cut from 0:47 to the end -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dpuLgHzKcK4?start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- * "Time to take medication" notification
-* refill notification
-* "left behind" notifications -->
 
 <br/><br/>
 
