@@ -19,18 +19,18 @@ Click on the thumbnail to open the video in a new tab.
 
 * Register your PillPal bottle(s) with your phone
 <!-- Demo Videos - Adding Information -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dpuLgHzKcK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Szlx34st53w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Get notification remiders
-<p align="left"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpuLgHzKcK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![notification reminders video](http://img.youtube.com/vi/dpuLgHzKcK4/0.jpg)](http://www.youtube.com/watch?v=dpuLgHzKcK4 "Dosage Reminders")
-
-</p>
 * Find your bottle with our bottle locator
 <!-- Demo Videos - Stud Finding -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tXXh0E2Hcjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Check your Dosage History
 <!-- Demo Videos - Dosage Notifications. need cut from 0:47 to the end -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpuLgHzKcK4?start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- * "Time to take medication" notification
 * refill notification
