@@ -6,7 +6,7 @@ Everyone contributed to the presentation slides and practiced for the presentati
 
 Here are the individual contributions for this week:
 
-- **Alex**: Created the presentation slides.
+- **Alex**: Created the presentation slides, organized demo videos.
 - **Edward**: Assembled the physical pill bottle, using 3D printed parts and electronics. Recorded some features for the demo. Created new logo.
 - **Peter**: Set up and debugged notifications, recorded some features for the demo. Tested out app and bottle communication, making adjustments for a smoother demo. 
 - **Sunny**: Completed adjusting physical bottle print, recorded and edited demo videos. Updated budget and PRD to reflect project state. Wrote weekly update.
