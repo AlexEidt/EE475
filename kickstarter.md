@@ -22,7 +22,9 @@ Click on the thumbnail to open the video in a new tab.
 
 * Get notification remiders
 <p align="left"> 
+
 [![notification reminders video](http://img.youtube.com/vi/dpuLgHzKcK4/0.jpg)](http://www.youtube.com/watch?v=dpuLgHzKcK4 "Dosage Reminders")
+
 </p>
 * Find your bottle with our bottle locator
 <!-- Demo Videos - Stud Finding -->
