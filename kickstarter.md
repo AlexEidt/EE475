@@ -19,7 +19,7 @@ Taking medication is an essential part of maintaining health for millions of peo
 * Register your PillPal bottle(s) with your phone
 <!-- Demo Videos - Adding Information -->
 * Get notification remiders
-<!-- Demo Videos - Dosage Notifications -->
+[![notification reminders video](http://img.youtube.com/vi/dpuLgHzKcK4/0.jpg)](http://www.youtube.com/watch?v=dpuLgHzKcK4 "Dosage Reminders")
 * Find your bottle with our bottle locator
 <!-- Demo Videos - Stud Finding -->
 * Check your Dosage History
@@ -61,13 +61,13 @@ Taking medication is an essential part of maintaining health for millions of peo
 
 ## Future Work
 
-The PillPal project is still very much in development. With your help kickstarting this product, we'll deliver some great new features to improve the user experience.
+The PillPal project is still very much in development. With your help kickstarting this product, we'll deliver some great new features to improve the user experience and safety.
 
-One of those features is a Child Safety Lid, which comes standard in most regular pill bottles. 
+One of those features is a child safety lid, which comes standard in most regular pill bottles. 
 
-Additionally, Medication Remainder Detection will offer a more robust means of tracking how much medication is left in your bottle.
+Additionally, a form of medication amount detection will offer a more robust means of tracking how much medication is left in your bottle.
 
-We also plan on removing the tedious process of transcribing prescription information into the app by a prescription scanner which will automatically fill in all medication information from a picture. With this feature will also come automatic prescription refills with your pharamacy.
+We also plan on removing the tedious process of transcribing prescription information into the app by implementing a prescription scanner which will automatically fill in all medication information from a picture. 
 
 <!-- ## Timeline hopefully visual timeline of how we will continue developing the pillpal. can (will) definitely be full of lies. this section isn't necessary -->
 
