@@ -1,10 +1,6 @@
-<!--# PillPal: Your Smart Pill Bottle -->
-<!-- insert logo here -->
-
 <p align="center">
   <img src="static/logo.png" alt="logo" width="300"/>
 </p>
-<!-- this is where we'd put a video if we had one -->
 
 ## Story
 <!-- provide background and context for why we decided to make PillPal (besides it being for our capstone class). who is our target audience? why does our product matter and what new aspects does it bring to the smart pill bottle market? -->
@@ -32,15 +28,14 @@ Taking medication is an essential part of maintaining health for millions of peo
 * "left behind" notifications -->
 
 ## Features
-* Multiple medication management
-* Medication Reminders
-* Usage History
-* Week-long battery life
-* Medication Proximity Detection
-* Usage History
+<p>
+  <img src="static/feature_1.png" alt="feature1" width="650"/>
+  <img src="static/feature_2.png" alt="feature2" width="650"/>
+  <img src="static/feature_3.png" alt="feature3" width="650"/>
+</p>
+<!-- this is where we'd put a video if we had one -->
 
 ## UI Design
-![UI Mockup](static/UI.png)
 
 ## Specification
 * Materials: PLA
